@@ -5,7 +5,7 @@
    I'm 18 years old Self-thought Full-Stack developer from India.
 
 - 🌱 I’m currently learning **React** </li>
-- 🔭 I can talk about space for days
+- 🔭 I can talk about space for hours
 - 💬 Ask me about **MERN ,SQL**
 - I do fullstack and a bit of everything
 - 📫 Connect me on twitter <a href="https://twitter.com/mygodlon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mygodlon" height="30" width="40" /></a>
