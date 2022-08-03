@@ -8,9 +8,8 @@
 - 🔭 I can talk about space for days
 - 💬 Ask me about **MERN ,SQL**
 - I do fullstack and a bit of everything
-- 📫 Connect me on twitte r<p align="left">
-<a href="https://twitter.com/mygodlon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mygodlon" height="30" width="40" /></a>
-</p>
+- 📫 Connect me on twitter <a href="https://twitter.com/mygodlon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mygodlon" height="30" width="40" /></a>
+
 
 <h3 align="left">Connect with me:</h3>
 
