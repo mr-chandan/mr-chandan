@@ -2,9 +2,9 @@
 <h3 align="center">Self Thought Full Stack web developer | India </h3>
 
 
-<p align="left"> <a href="https://twitter.com/mygodlon" target="blank"><img src="https://img.shields.io/twitter/follow/mygodlon?logo=twitter&style=for-the-badge" alt="mygodlon" /></a> </p>
+  I'm 18 years old Self-taught Full-Stack developer from India.
 
-- 🌱 I’m currently learning **React**
+<li> 🌱 I’m currently learning **React** </li>
 
 - 💬 Ask me about **MERN ,SQL**
 
@@ -23,3 +23,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-chandan&show_icons=true&locale=en" alt="mr-chandan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-chandan&" alt="mr-chandan" /></p>
+
+
+<p align="left"> <a href="https://twitter.com/mygodlon" target="blank"><img src="https://img.shields.io/twitter/follow/mygodlon?logo=twitter&style=for-the-badge" alt="mygodlon" /></a> </p>
