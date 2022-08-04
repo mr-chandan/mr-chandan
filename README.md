@@ -4,7 +4,7 @@
 
    I'm 18 years old Self-thought Full-Stack developer from India.
 
-- 🌱 I’m currently learning **React** **Web3.0**   </li>
+- 🌱 I’m currently learning **React**&**Web3.0**   </li>
 - 🔭 I can talk about space for hours
 - 💬 Ask me about **MERN ,SQL**
 - I do fullstack and a bit of everything
