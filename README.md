@@ -9,6 +9,7 @@
 - 💬 Ask me about **MERN ,SQL**
 - I do fullstack and a bit of everything
 - 📫 Connect me on twitter <a href="https://twitter.com/mygodlon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mygodlon" height="30" width="40" /></a>
+- I usually do programming under water,so nobody can see me cry
 
 
 # 💻 Tech Stack:
