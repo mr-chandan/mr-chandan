@@ -2,7 +2,6 @@
 <h3 align="center">Full Stack web developer | India</h3>
 
 
-   I'm 18 years old Self-thought Full-Stack developer from India.
 
 - 🌱 I’m currently learning **Rust/Web3.0**  </li>
 - 🔭 I can talk about space for hours
