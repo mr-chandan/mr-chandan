@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Rust/Web3.0**  </li>
+- 🌱 I’m currently learning **Go/k8**  </li>
 - 🔭 I can talk about space for hours
 - 💬 Ask me about **MERN ,SQL**
 - I do fullstack and a bit of everything
