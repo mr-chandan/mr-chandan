@@ -3,9 +3,9 @@
 
 
 
-- 🌱 I’m currently learning **Go/k8**  </li>
+- 🌱 I’m currently build a robot learning **Ros/simulation/3D modeling**  </li>
 - 🔭 I can talk about space for hours
-- 💬 Ask me about **MERN ,SQL**
+- 💬 Ask me about **engeneering**
 - I do fullstack and a bit of everything
 - 📫 Connect me on twitter <a href="https://twitter.com/mygodlon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mygodlon" height="22" width="22" /></a>
 - I usually do programming under water,so nobody can see me cry
