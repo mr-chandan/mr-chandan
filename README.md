@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Chandan 👋</h1>
-<h3 align="center">Build cool stuff | India</h3>
+<h3 align="center">Building cool stuff | India</h3>
 
 
 
